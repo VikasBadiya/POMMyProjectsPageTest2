@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="9" passed="8" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-09-20T19:49:03 IST" name="All Test Suite" finished-at="2023-09-20T19:49:18 IST" duration-ms="15626">
+    <groups>
+    </groups>
+    <test started-at="2023-09-20T19:49:03 IST" name="POMMyProjectsPageTest2" finished-at="2023-09-20T19:49:18 IST" duration-ms="15626">
+      <class name="TestScenarios.TechnologyPageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.TechnologyPageTest@7ee955a8]" started-at="2023-09-20T19:49:12 IST" name="SetUp" finished-at="2023-09-20T19:49:15 IST" duration-ms="2830" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="TestTechnologyPage()[pri:1, instance:TestScenarios.TechnologyPageTest@7ee955a8]" started-at="2023-09-20T19:49:15 IST" name="TestTechnologyPage" finished-at="2023-09-20T19:49:15 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestTechnologyPage -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.TechnologyPageTest@7ee955a8]" started-at="2023-09-20T19:49:15 IST" name="TearDown" finished-at="2023-09-20T19:49:16 IST" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.TechnologyPageTest@7ee955a8]" started-at="2023-09-20T19:49:16 IST" name="SetUp" finished-at="2023-09-20T19:49:18 IST" duration-ms="2220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="TestBackButton()[pri:2, instance:TestScenarios.TechnologyPageTest@7ee955a8]" started-at="2023-09-20T19:49:18 IST" name="TestBackButton" finished-at="2023-09-20T19:49:18 IST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBackButton -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.TechnologyPageTest@7ee955a8]" started-at="2023-09-20T19:49:18 IST" name="TearDown" finished-at="2023-09-20T19:49:18 IST" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestScenarios.TechnologyPageTest -->
+      <class name="TestScenarios.DiwaliPageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.DiwaliPageTest@7b227d8d]" started-at="2023-09-20T19:49:03 IST" name="SetUp" finished-at="2023-09-20T19:49:07 IST" duration-ms="4722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="TestDiwaliPageUI()[pri:1, instance:TestScenarios.DiwaliPageTest@7b227d8d]" started-at="2023-09-20T19:49:07 IST" name="TestDiwaliPageUI" finished-at="2023-09-20T19:49:08 IST" duration-ms="630" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDiwaliPageUI -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.DiwaliPageTest@7b227d8d]" started-at="2023-09-20T19:49:08 IST" name="TearDown" finished-at="2023-09-20T19:49:08 IST" duration-ms="198" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.DiwaliPageTest@7b227d8d]" started-at="2023-09-20T19:49:08 IST" name="SetUp" finished-at="2023-09-20T19:49:10 IST" duration-ms="1995" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="TestBackButton()[pri:2, instance:TestScenarios.DiwaliPageTest@7b227d8d]" started-at="2023-09-20T19:49:10 IST" name="TestBackButton" finished-at="2023-09-20T19:49:11 IST" duration-ms="304" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBackButton -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.DiwaliPageTest@7b227d8d]" started-at="2023-09-20T19:49:11 IST" name="TearDown" finished-at="2023-09-20T19:49:11 IST" duration-ms="268" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestScenarios.DiwaliPageTest -->
+      <class name="TestScenarios.HomePageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.HomePageTest@7c469c48]" started-at="2023-09-20T19:49:10 IST" name="SetUp" finished-at="2023-09-20T19:49:11 IST" duration-ms="1915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="TestHomePageUI()[pri:1, instance:TestScenarios.HomePageTest@7c469c48]" started-at="2023-09-20T19:49:11 IST" name="TestHomePageUI" finished-at="2023-09-20T19:49:12 IST" duration-ms="546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestHomePageUI -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.HomePageTest@7c469c48]" started-at="2023-09-20T19:49:12 IST" name="TearDown" finished-at="2023-09-20T19:49:12 IST" duration-ms="258" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestScenarios.HomePageTest -->
+      <class name="TestScenarios.FoodsPageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.FoodsPageTest@51e5fc98]" started-at="2023-09-20T19:49:03 IST" name="SetUp" finished-at="2023-09-20T19:49:07 IST" duration-ms="4049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="TestFoodsPage()[pri:1, instance:TestScenarios.FoodsPageTest@51e5fc98]" started-at="2023-09-20T19:49:07 IST" name="TestFoodsPage" finished-at="2023-09-20T19:49:07 IST" duration-ms="220" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestFoodsPage -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.FoodsPageTest@51e5fc98]" started-at="2023-09-20T19:49:07 IST" name="TearDown" finished-at="2023-09-20T19:49:07 IST" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.FoodsPageTest@51e5fc98]" started-at="2023-09-20T19:49:07 IST" name="SetUp" finished-at="2023-09-20T19:49:09 IST" duration-ms="1915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="TestBackButton()[pri:2, instance:TestScenarios.FoodsPageTest@51e5fc98]" started-at="2023-09-20T19:49:09 IST" name="TestBackButton" finished-at="2023-09-20T19:49:09 IST" duration-ms="217" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestBackButton -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.FoodsPageTest@51e5fc98]" started-at="2023-09-20T19:49:09 IST" name="TearDown" finished-at="2023-09-20T19:49:10 IST" duration-ms="284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestScenarios.FoodsPageTest -->
+      <class name="TestScenarios.NewsPageTest">
+        <test-method is-config="true" signature="SetUp()[pri:0, instance:TestScenarios.NewsPageTest@12e61fe6]" started-at="2023-09-20T19:49:11 IST" name="SetUp" finished-at="2023-09-20T19:49:13 IST" duration-ms="2552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method signature="TestNewsPageUI()[pri:1, instance:TestScenarios.NewsPageTest@12e61fe6]" started-at="2023-09-20T19:49:13 IST" name="TestNewsPageUI" finished-at="2023-09-20T19:49:14 IST" duration-ms="510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestNewsPageUI -->
+        <test-method is-config="true" signature="TearDown()[pri:0, instance:TestScenarios.NewsPageTest@12e61fe6]" started-at="2023-09-20T19:49:14 IST" name="TearDown" finished-at="2023-09-20T19:49:14 IST" duration-ms="318" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TearDown -->
+      </class> <!-- TestScenarios.NewsPageTest -->
+    </test> <!-- POMMyProjectsPageTest2 -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

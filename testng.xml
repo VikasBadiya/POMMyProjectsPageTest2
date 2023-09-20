@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test  name="POMMyProjectsPageTest2" parallel="classes" thread-count="2">
+        <classes>
+            <class name="TestScenarios.DiwaliPageTest">
+                <methods>
+                    <include name="TestDiwaliPageUI" />
+                    <include name="TestBackButton" />
+                </methods>
+            </class>
+            <class name="TestScenarios.FoodsPageTest">
+                <methods>
+                    <include name="TestFoodsPage" />
+                    <include name="TestBackButton" />
+                </methods>
+            </class>
+            <class name="TestScenarios.HomePageTest">
+                <methods>
+                    <include name="TestHomePageUI" />
+                </methods>
+            </class>
+            <class name="TestScenarios.NewsPageTest">
+                <methods>
+                    <include name="TestNewsPageUI" />
+                </methods>
+            </class>
+            <class name="TestScenarios.TechnologyPageTest">
+                <methods>
+                    <include name="TestTechnologyPage" />
+                    <include name="TestBackButton" />
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
